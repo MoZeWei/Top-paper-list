@@ -4,6 +4,30 @@
 
 |  Title  |  Conf./Journal  |  Keyword  |  Note  |
 |  ----  | ----  | ---- | ---- |
+|  [Qompress: Efficient Compilation for Ququarts Exploiting Partial and Mixed Radix Operations for Communication Reduction](https://dl.acm.org/doi/10.1145/3575693.3575726)  | ASPLOS'23  | ---- | [Video](https://youtu.be/cbDt33UeyIE) |
+|  [Verification of nondeterministic quantum programs](https://doi.org/10.1145/3582016.3582039)  | ASPLOS'23  | ---- | [Video](https://youtu.be/dxRAejpvf3c) |
+|  [CAFQA: A classical simulation bootstrap for variational quantum algorithms](https://dl.acm.org/doi/10.1145/3567955.3567958)  | ASPLOS'23  | ---- | [Video](https://youtu.be/JefpWCO9a-c) |
+|  [Better Than Worst-Case Decoding for Quantum Error Correction](https://dl.acm.org/doi/10.1145/3575693.3575733)  | ASPLOS'23  | ---- | [Video](https://youtu.be/kdnXyUxtaa4) |
+|  [Navigating the Dynamic Noise Landscape of Variational Quantum Algorithms with QISMET](https://dl.acm.org/doi/10.1145/3575693.3575739)  | ASPLOS'23  | ---- | [Video](https://youtu.be/rjQaZgD_xkg) |
+|  [FrozenQubits: Boosting Fidelity of QAOA by Skipping Hotspot Nodes](https://dl.acm.org/doi/10.1145/3575693.3575741)  | ASPLOS'23  | ---- | [Video](https://youtu.be/E2RSBxnkbjc) |
+|  [CaQR: A Compiler-assisted Approach for Qubit Reuse Through Dynamic Circuit](https://doi.org/10.1145/3582016.3582030)  | ASPLOS'23  | ---- | [Video](https://youtu.be/v_5inkPk0Qg) |
+|  [Suppressing ZZ Crosstalk of Quantum Computers through Pulse and Scheduling Co-Optimization](https://arxiv.org/abs/2202.07628)  | ASPLOS'22  | ---- | ---- |
+|  [QUEST: Systematically Approximating Quantum Circuits for Higher Output Fidelity](https://dl.acm.org/doi/10.1145/3503222.3507739)  | ASPLOS'22  | ---- | ---- |
+|  [HAMMER: Boosting Fidelity of Noisy Quantum Circuits by Exploiting Hamming Behavior of Erroneous Outcomes](https://dl.acm.org/doi/10.1145/3503222.3507703)  | ASPLOS'22  | ---- | ---- |
+|  [LILLIPUT: A Lightweight Low-Latency Lookup-Table Based Decoder for Near-term Quantum Error Correction](https://dl.acm.org/doi/10.1145/3503222.3507707)  | ASPLOS'22  | ---- | ---- |
+|  [Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels](https://dl.acm.org/doi/10.1145/3503222.3507715)  | ASPLOS'22  | ---- | ---- |
+|  [CutQC: Using Small Quantum Computers for Large Quantum Circuit Evaluations](https://arxiv.org/abs/2012.02333)  | ASPLOS'21  | ---- | ---- |
+|  [Logical Abstractions for Noisy Variational Quantum Algorithm Simulation](https://arxiv.org/abs/2103.17226)  | ASPLOS'21  | ---- | ---- |
+|  [Qraft: Reverse Your Quantum Circuit and Know the Correct Program Output](https://dl.acm.org/doi/10.1145/3445814.3446743)  | ASPLOS'21  | ---- | ---- |
+|  [Orchestrated Trios: Compiling for Efficient Communication in Quantum Programs with 3-Qubit Gates](https://arxiv.org/abs/2102.08451)  | ASPLOS'21  | ---- | ---- |
+|  [Time-Optimal Qubit Mapping](https://dl.acm.org/doi/10.1145/3445814.3446706)  | ASPLOS'21  | ---- | ---- |
+|  [Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers](https://arxiv.org/abs/2001.02826)  | ASPLOS'20  | ---- | [Video](https://youtube.com/watch?v=xEEOHa6PnJU&list=PLsLWHLZB96VeVp3IVzvSH58ttVz_Anr7H&index=48&t=0s) |
+|  [Quantum Circuits for Dynamic Runtime Assertions in Quantum Computation](https://arxiv.org/pdf/1905.12068.pdf)  | ASPLOS'20  | ---- | [Video](https://youtube.com/watch?v=KaTjniXU0bc&list=PLsLWHLZB96VeVp3IVzvSH58ttVz_Anr7H&index=49&t=0s) |
+|  [Towards Efficient Superconducting Quantum Processor Architecture Design](https://arxiv.org/abs/1911.12879)  | ASPLOS'20  | ---- | [Video](https://youtube.com/watch?v=ipKND_bi3b8&list=PLsLWHLZB96VeVp3IVzvSH58ttVz_Anr7H&index=50&t=0s) |
+|  [Not All Qubits Are Created Equal: A Case for Variability-Aware Policies for NISQ-Era Quantum Computers](https://arxiv.org/abs/1805.10224)  | ASPLOS'19  | ---- | ---- |
+|  [Tackling the Qubit Mapping Problem for NISQ-Era Quantum Devices](https://arxiv.org/abs/1809.02573)  | ASPLOS'19  | ---- | ---- |
+|  [Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers](https://arxiv.org/abs/1901.11054)  | ASPLOS'19  | ---- | ---- |
+|  [Optimized Compilation of Aggregated Instructions for Realistic QuantumComputers](https://arxiv.org/abs/1902.01474)  | ASPLOS'19  | ---- | ---- |
 |  [QIsim: Architecting 10+K Qubit QC Interfaces Toward Quantum Supremacy](https://github.com/MoZeWei/Top-paper-list/blob/main/asset/ISCA23-QIsim%20Architecting%2010%2BK%20Qubit%20QC%20Interfaces%20Toward%20Quantum%20Supremacy.pdf)  | ISCA'23  | simulator; scalability; modeling;  | ---- |
 |  [Astrea: Accurate Quantum Error-Decoding via Practical Minimum-Weight Perfect-Matching](https://memlab.ece.gatech.edu/papers/ISCA_2023_1.pdf)  |  ISCA'23  |  Quantum Error Correction; Decoder; Minimum-Weight Perfect Matching (MWPM);  brute-force search; filters high-cost weights;    | ---- |
 |  [Scaling Qubit Readout with Hardware Efficient Machine Learning Architectures](https://arxiv.org/pdf/2212.03895.pdf)  | ISCA'23  | readout; error correcting; scalability; discrimination; neural network assisting; FPGAs;  | ---- |
