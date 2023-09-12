@@ -112,7 +112,17 @@
 | [Optimizing the data movement in quantum transport simulations via data-centric parallel programming](https://dl.acm.org/doi/10.1145/3295500.3356200) | SC'19 | ---- | ---- |
 | [Parallel transport time-dependent density functional theory calculations with hybrid functional on summit](https://dl.acm.org/doi/10.1145/3295500.3356144) | SC'19 | ---- | ---- |
 | [Full-state quantum circuit simulation by using data compression](https://dl.acm.org/doi/10.1145/3295500.3356155) | SC'19 | ---- | ---- |
-
+| [An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits](https://doi.org/10.1145/3591270) | PLDI'23 | ---- | ---- |
+| [Synthesizing Quantum-Circuit Optimizers](https://doi.org/10.1145/3591254) | PLDI'23 | ---- | ---- |
+| [Gleipnir: toward practical error analysis for Quantum programs](https://dl.acm.org/doi/abs/10.1145/3453483.3454029) | PLDI'23 | ---- | ---- |
+| [Quartz: Superoptimization of Quantum Circuits](https://doi.org/10.1145/3519939.3523433) | PLDI'22 | ---- | ---- |
+| [Giallar: Push-button Verification for the Qiskit Quantum Compiler](https://doi.org/10.1145/3519939.3523431) | PLDI'22 | ---- | ---- |
+| [Algebraic Reasoning of Quantum Programs via Non-Idempotent Kleene Algebra](https://doi.org/10.1145/3519939.3523713) | PLDI'22 | ---- | ---- |
+| [PyLSE: A Pulse-Transfer Level Language for Superconductor Electronics](https://doi.org/10.1145/3519939.3523438) | PLDI'22 | ---- | ---- |
+| []() | PLDI'21 | ---- | ---- |
+| []() | PLDI'21 | ---- | ---- |
+| []() | PLDI'21 | ---- | ---- |
+| []() | PLDI'21 | ---- | ---- |
 
 ## GPU
 
