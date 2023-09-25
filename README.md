@@ -1,3 +1,7 @@
+# Conferences and Journals of Interests
+
+ASPLOS, ISCA, MICRO, HPCA, SC, PLDI, POPL, QCE, PRL, PRX.
+
 # Paper List
 
 ## Quantum Computing
