@@ -77,6 +77,11 @@ ASPLOS, ISCA, MICRO, HPCA, SC, PLDI, POPL, QCE, PRL, PRX.
 | [QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](https://ieeexplore.ieee.org/document/9407180) | HPCA'21 | ---- | ---- |
 | [Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion](https://ieeexplore.ieee.org/document/9407042) | HPCA'21 | ---- | ---- |
 | [Faster Schrödinger-style simulation of quantum circuits](https://arxiv.org/abs/2008.00216) | HPCA'21 | ---- | ---- |
+| [QuComm: Optimizing Collective Communication for Distributed Quantum Computing](https://arxiv.org/abs/2208.06724) | MICRO'23 | ---- | ---- |
+| [QuCT: A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features]() | MICRO'23 | ---- | ---- |
+| [ERASER: Practical and Accurate Leakage Suppression for Fault-Tolerant Quantum Computing](https://arxiv.org/pdf/2309.13143.pdf) | MICRO'23 | ---- | ---- |
+| [Systems Architecture for Quantum Random Access Memory](https://arxiv.org/pdf/2306.03242.pdf) | MICRO'23 | ---- | ---- |
+| [HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems](https://arxiv.org/pdf/2305.03243.pdf) | MICRO'23 | ---- | ---- |
 | [AutoComm: A Framework for Enabling Efficient Communication in Distributed Quantum Programs](https://arxiv.org/pdf/2207.11674.pdf) | MICRO'22 | ---- | ---- |
 | [Let Each Quantum Bit Choose Its Basis Gates](https://arxiv.org/abs/2208.13380) | MICRO'22 | ---- | ---- |
 | [COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control](https://ieeexplore.ieee.org/document/9923861) | MICRO'22 | ---- | ---- |
