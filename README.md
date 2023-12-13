@@ -82,7 +82,7 @@ ASPLOS, ISCA, MICRO, HPCA, SC, PLDI, POPL, QCE, PRL, PRX.
 | [ERASER: Practical and Accurate Leakage Suppression for Fault-Tolerant Quantum Computing](https://arxiv.org/pdf/2309.13143.pdf) | MICRO'23 | ---- | ---- |
 | [Systems Architecture for Quantum Random Access Memory](https://arxiv.org/pdf/2306.03242.pdf) | MICRO'23 | ---- | ---- |
 | [HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems](https://arxiv.org/pdf/2305.03243.pdf) | MICRO'23 | ---- | ---- |
-| [AutoComm: A Framework for Enabling Efficient Communication in Distributed Quantum Programs](https://arxiv.org/pdf/2207.11674.pdf) | MICRO'22 | ---- | ---- |
+| [AutoComm: A Framework for Enabling Efficient Communication in Distributed Quantum Programs](https://ieeexplore.ieee.org/document/9923799) | MICRO'22 | ---- | ---- |
 | [Let Each Quantum Bit Choose Its Basis Gates](https://arxiv.org/abs/2208.13380) | MICRO'22 | ---- | ---- |
 | [COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control](https://ieeexplore.ieee.org/document/9923861) | MICRO'22 | ---- | ---- |
 | [Qubit Mapping and Routing via MaxSAT](https://arxiv.org/abs/2208.13679) | MICRO'22 | ---- | ---- |
