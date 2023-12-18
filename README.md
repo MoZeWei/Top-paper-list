@@ -114,6 +114,7 @@ ASPLOS, ISCA, MICRO, HPCA, SC, PLDI, POPL, QCE, PRL, PRX.
 | [UniQ: A Unified Programming Model for Efficient Quantum Circuit Simulation](https://ieeexplore.ieee.org/document/10045784) | SC'22 | ---- | [Code](https://github.com/thu-pacman/UniQ) |
 | [Empirical evaluation of circuit approximations on noisy quantum devices](https://dl.acm.org/doi/10.1145/3458817.3476189) | SC'21 | ---- | ---- |
 | [SV-sim: scalable PGAS-based state vector simulation of quantum circuits](https://dl.acm.org/doi/10.1145/3458817.3476169) | SC'21 | ---- | ---- |
+| [Distributed Quantum Computing with QMPI](https://dl.acm.org/doi/pdf/10.1145/3458817.3476172) | SC'21 | ---- | ---- |
 | [SW_Qsim: a minimize-memory quantum simulator with high-performance on a new Sunway supercomputer](https://dl.acm.org/doi/10.1145/3458817.3476161) | SC'21 | ---- | ---- |
 | [Density matrix quantum circuit simulation via the BSP machine on modern GPU clusters](https://dl.acm.org/doi/10.5555/3433701.3433718) | SC'20 | ---- | ---- |
 | [Efficient 2D tensor network simulation of quantum systems](https://dl.acm.org/doi/10.5555/3433701.3433719) | SC'20 | ---- | ---- |
