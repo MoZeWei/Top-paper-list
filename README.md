@@ -8,6 +8,20 @@ ASPLOS, ISCA, MICRO, HPCA, SC, PLDI, POPL, QCE, PRL, PRX.
 
 |  Title  |  Conf./Journal  |  Keyword  |  Note  |
 |  ----  | ----  | ---- | ---- |
+|  [Codesign of quantum error-correcting codes and modular chiplets in the presence of defects](https://doi.org/10.1145/3620665.3640362)  | ASPLOS'24  | ---- | ---- |
+|  [MECH: Multi-Entry Communication Highway for Superconducting Quantum Chiplets](https://doi.org/10.1145/3620665.3640377)  | ASPLOS'24  | ---- | ---- |
+|  [QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method](https://doi.org/10.1145/3620665.3640380)  | ASPLOS'24  | ---- | ---- |
+|  [A Fault-Tolerant Million Qubit-Scale Distributed Quantum Computer](https://doi.org/10.1145/3620665.3640388)  | ASPLOS'24  | ---- | ---- |
+|  [Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding](https://doi.org/10.1145/3620666.3651339)  | ASPLOS'24  | ---- | ---- |
+|  [Elivagar: Efficient Quantum Circuit Search for Classification](https://doi.org/10.1145/3620665.3640354)  | ASPLOS'24  | ---- | ---- |
+|  [Red-QAOA: Efficient Variational Optimization through Circuit Reduction](https://doi.org/10.1145/3620665.3640363)  | ASPLOS'24  | ---- | ---- |
+|  [VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms](https://doi.org/10.1145/3623278.3624764)  | ASPLOS'24  | ---- | ---- |
+|  [ProxiML: Building Machine Learning Classifiers for Photonic Quantum Computing](https://doi.org/10.1145/3620666.3651367)  | ASPLOS'24  | ---- | ---- |
+|  [Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators](https://doi.org/10.1145/3623278.3624751)  | ASPLOS'24  | ---- | ---- |
+|  [One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing](https://doi.org/10.1145/3620665.3640386)  | ASPLOS'24  | ---- | ---- |
+|  [MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification](https://doi.org/10.1145/3620666.3651360)  | ASPLOS'24  | ---- | ---- |
+|  [Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding](https://doi.org/10.1145/3620666.3651371)  | ASPLOS'24  | ---- | ---- |
+|  [OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing](https://doi.org/10.1145/3620666.3651372)  | ASPLOS'24  | ---- | ---- |
 |  [Qompress: Efficient Compilation for Ququarts Exploiting Partial and Mixed Radix Operations for Communication Reduction](https://dl.acm.org/doi/10.1145/3575693.3575726)  | ASPLOS'23  | ---- | [Video](https://youtu.be/cbDt33UeyIE) |
 |  [Verification of nondeterministic quantum programs](https://doi.org/10.1145/3582016.3582039)  | ASPLOS'23  | ---- | [Video](https://youtu.be/dxRAejpvf3c) |
 |  [CAFQA: A classical simulation bootstrap for variational quantum algorithms](https://dl.acm.org/doi/10.1145/3567955.3567958)  | ASPLOS'23  | ---- | [Video](https://youtu.be/JefpWCO9a-c) |
